@@ -1,0 +1,12 @@
+{
+  "name": "n8n-render",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install -g n8n",
+    "start": "n8n start"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
