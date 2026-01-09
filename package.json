@@ -1,7 +1,6 @@
 {
   "name": "n8n-render",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
     "postinstall": "npm install -g n8n && n8n start",
     "start": "n8n start"
