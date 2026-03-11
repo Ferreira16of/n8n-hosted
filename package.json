@@ -1,5 +1,5 @@
 {
-  "name": "n8n",
+  "name": "n8n-server",
   "version": "1.0.0",
   "scripts": {
     "postinstall": "npm install -g n8n && n8n start",
