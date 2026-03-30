@@ -2,7 +2,7 @@
   "name": "n8n-server",
   "version": "1.0.0",
   "scripts": {
-    "postinstall": "npm install -g n8n && n8n start",
+    "postinstall": "npm install -g n8n",
     "start": "n8n start"
   },
   "engines": {
