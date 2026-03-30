@@ -1,8 +1,10 @@
 {
   "name": "n8n-server",
   "version": "1.0.0",
+  "dependencies": {
+    "n8n": "latest"
+  },
   "scripts": {
-    "postinstall": "npm install -g n8n",
     "start": "n8n start"
   },
   "engines": {
