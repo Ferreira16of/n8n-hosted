@@ -53,3 +53,209 @@ Open your tunnel address on your mobile with this QR:
 [7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m
 [7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m
 
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Warning: Permanently added 'localhost.run' (RSA) to the list of known hosts.
+
+===============================================================================
+Welcome to localhost.run!
+
+Follow your favourite reverse tunnel at [https://twitter.com/localhost_run].
+
+To set up and manage custom domains go to https://admin.localhost.run/
+
+More details on custom domains (and how to enable subdomains of your custom
+domain) at https://localhost.run/docs/custom-domains
+
+If you get a permission denied error check the faq for how to connect with a key or
+create a free tunnel without a key at [http://localhost:3000/docs/faq#generating-an-ssh-key].
+
+To explore using localhost.run visit the documentation site:
+https://localhost.run/docs/
+
+===============================================================================
+
+** your connection id is a47074c8-b8b3-40b6-bc25-75eb8c49d5e0, please mention it if you send me a message about an issue. **
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Permissions 0644 for 'id_rsa' are too open.
+It is required that your private key files are NOT accessible by others.
+This private key will be ignored.
+Load key "id_rsa": bad permissions
+root@localhost.run: Permission denied (publickey).
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+
+===============================================================================
+Welcome to localhost.run!
+
+Follow your favourite reverse tunnel at [https://twitter.com/localhost_run].
+
+To set up and manage custom domains go to https://admin.localhost.run/
+
+More details on custom domains (and how to enable subdomains of your custom
+domain) at https://localhost.run/docs/custom-domains
+
+If you get a permission denied error check the faq for how to connect with a key or
+create a free tunnel without a key at [http://localhost:3000/docs/faq#generating-an-ssh-key].
+
+To explore using localhost.run visit the documentation site:
+https://localhost.run/docs/
+
+===============================================================================
+
+** your connection id is c9ffbf4e-e509-4704-8379-1dd1c0307399, please mention it if you send me a message about an issue. **
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Permissions 0644 for '/workspace/18b65815-c0d1-4e77-99a4-b388a20cdfe1/sessions/agent_ff974ce7-70c7-4c7c-9a2a-27aa396a4e18/id_rsa' are too open.
+It is required that your private key files are NOT accessible by others.
+This private key will be ignored.
+Load key "/workspace/18b65815-c0d1-4e77-99a4-b388a20cdfe1/sessions/agent_ff974ce7-70c7-4c7c-9a2a-27aa396a4e18/id_rsa": bad permissions
+root@localhost.run: Permission denied (publickey).
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+
+===============================================================================
+Welcome to localhost.run!
+
+Follow your favourite reverse tunnel at [https://twitter.com/localhost_run].
+
+To set up and manage custom domains go to https://admin.localhost.run/
+
+More details on custom domains (and how to enable subdomains of your custom
+domain) at https://localhost.run/docs/custom-domains
+
+If you get a permission denied error check the faq for how to connect with a key or
+create a free tunnel without a key at [http://localhost:3000/docs/faq#generating-an-ssh-key].
+
+To explore using localhost.run visit the documentation site:
+https://localhost.run/docs/
+
+===============================================================================
+
+** your connection id is a882b9dd-e541-42f4-96e2-52979bc60af9, please mention it if you send me a message about an issue. **
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Permissions 0644 for '/workspace/18b65815-c0d1-4e77-99a4-b388a20cdfe1/sessions/agent_ff974ce7-70c7-4c7c-9a2a-27aa396a4e18/id_rsa' are too open.
+It is required that your private key files are NOT accessible by others.
+This private key will be ignored.
+Load key "/workspace/18b65815-c0d1-4e77-99a4-b388a20cdfe1/sessions/agent_ff974ce7-70c7-4c7c-9a2a-27aa396a4e18/id_rsa": bad permissions
+root@localhost.run: Permission denied (publickey).
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+
+===============================================================================
+Welcome to localhost.run!
+
+Follow your favourite reverse tunnel at [https://twitter.com/localhost_run].
+
+To set up and manage custom domains go to https://admin.localhost.run/
+
+More details on custom domains (and how to enable subdomains of your custom
+domain) at https://localhost.run/docs/custom-domains
+
+If you get a permission denied error check the faq for how to connect with a key or
+create a free tunnel without a key at [http://localhost:3000/docs/faq#generating-an-ssh-key].
+
+To explore using localhost.run visit the documentation site:
+https://localhost.run/docs/
+
+===============================================================================
+
+** your connection id is aa64717f-423a-4971-979d-c72486970d05, please mention it if you send me a message about an issue. **
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Permissions 0644 for '/workspace/18b65815-c0d1-4e77-99a4-b388a20cdfe1/sessions/agent_ff974ce7-70c7-4c7c-9a2a-27aa396a4e18/id_rsa' are too open.
+It is required that your private key files are NOT accessible by others.
+This private key will be ignored.
+Load key "/workspace/18b65815-c0d1-4e77-99a4-b388a20cdfe1/sessions/agent_ff974ce7-70c7-4c7c-9a2a-27aa396a4e18/id_rsa": bad permissions
+root@localhost.run: Permission denied (publickey).
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+
+===============================================================================
+Welcome to localhost.run!
+
+Follow your favourite reverse tunnel at [https://twitter.com/localhost_run].
+
+To set up and manage custom domains go to https://admin.localhost.run/
+
+More details on custom domains (and how to enable subdomains of your custom
+domain) at https://localhost.run/docs/custom-domains
+
+If you get a permission denied error check the faq for how to connect with a key or
+create a free tunnel without a key at [http://localhost:3000/docs/faq#generating-an-ssh-key].
+
+To explore using localhost.run visit the documentation site:
+https://localhost.run/docs/
+
+===============================================================================
+
+** your connection id is be62b6bf-f8ce-49b4-9169-ab942c2005f9, please mention it if you send me a message about an issue. **
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Permissions 0644 for '/workspace/18b65815-c0d1-4e77-99a4-b388a20cdfe1/sessions/agent_ff974ce7-70c7-4c7c-9a2a-27aa396a4e18/id_rsa' are too open.
+It is required that your private key files are NOT accessible by others.
+This private key will be ignored.
+Load key "/workspace/18b65815-c0d1-4e77-99a4-b388a20cdfe1/sessions/agent_ff974ce7-70c7-4c7c-9a2a-27aa396a4e18/id_rsa": bad permissions
+root@localhost.run: Permission denied (publickey).
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+
+===============================================================================
+Welcome to localhost.run!
+
+Follow your favourite reverse tunnel at [https://twitter.com/localhost_run].
+
+To set up and manage custom domains go to https://admin.localhost.run/
+
+More details on custom domains (and how to enable subdomains of your custom
+domain) at https://localhost.run/docs/custom-domains
+
+If you get a permission denied error check the faq for how to connect with a key or
+create a free tunnel without a key at [http://localhost:3000/docs/faq#generating-an-ssh-key].
+
+To explore using localhost.run visit the documentation site:
+https://localhost.run/docs/
+
+===============================================================================
+
+** your connection id is 4bb40419-cd5b-4ab9-9057-983266487e1c, please mention it if you send me a message about an issue. **
+
+authenticated as anonymous user
+a81b77b14cfa88.lhr.life tunneled with tls termination, https://a81b77b14cfa88.lhr.life
+create an account and add your key for a longer lasting domain name. see https://localhost.run/docs/forever-free/ for more information.
+Open your tunnel address on your mobile with this QR:
+
+[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m
+[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m
+[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m
+[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m
+[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m
+[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m
+[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m
+[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m
+[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m
+[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m
+[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m
+[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m
+[7m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m
+[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m
+[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m
+[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m
+[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m
+[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m
+[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m
+[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m
+[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m
+[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m
+[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m
+[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m
+[7m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m
+[7m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[49m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[49m  [0m[7m  [0m
+[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m[7m  [0m
+
